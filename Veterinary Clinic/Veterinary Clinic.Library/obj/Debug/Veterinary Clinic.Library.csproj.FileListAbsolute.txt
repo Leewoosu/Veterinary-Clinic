@@ -1,0 +1,12 @@
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\bin\Debug\Veterinary Clinic.Library.dll.config
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\bin\Debug\Veterinary Clinic.Library.dll
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\bin\Debug\Veterinary Clinic.Library.pdb
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\bin\Debug\EntityFramework.dll
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\bin\Debug\EntityFramework.xml
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\obj\Debug\Veterinary Clinic.Library.csprojAssemblyReference.cache
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\obj\Debug\Veterinary Clinic.Library.csproj.CoreCompileInputs.cache
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\obj\Debug\Veterinary Clinic.Library.csproj.CopyComplete
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\obj\Debug\Veterinary Clinic.Library.dll
+D:\부경대_윈도우플랫폼_IoT시스템개발자과정(2019.01.29~09.10)\2. C#\1. C# 과제파일\동물병원 관리 프로그램\Veterinary Clinic\Veterinary Clinic.Library\obj\Debug\Veterinary Clinic.Library.pdb
